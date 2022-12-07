@@ -1,0 +1,5 @@
+                            SIS Resolusi
+1.Fitur akan di kembangkan agar SIS dapat menjadi platform pendaftaran bagi siswa untuk sekolah yang menggunakan SIS.
+2.SIS akan menambahkan fitur email verification untuk siswa pendaftar.
+3.Data siswa yang ditambahkan oleh staf akademik sekolah pada platform SIS akan otomatis dibuatkan akun dan akunya akan 
+otomatis dikirimkan ke email siswa yang didaftarkan.
