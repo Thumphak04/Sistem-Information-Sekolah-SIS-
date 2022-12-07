@@ -3,3 +3,5 @@
 2.SIS akan menambahkan fitur email verification untuk siswa pendaftar.
 3.Data siswa yang ditambahkan oleh staf akademik sekolah pada platform SIS akan otomatis dibuatkan akun dan akunya akan 
 otomatis dikirimkan ke email siswa yang didaftarkan.
+4. Dari platform ini juga nantinya akan dikembangkan sebuah fitur untuk siswa dapat melakukan ujian (dalam ruang lingkup yang simple).
+5.Keseluruhan fitur ini dibuat dengan laravel dan template css klorofil.
